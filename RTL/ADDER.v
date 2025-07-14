@@ -51,7 +51,7 @@ module ADDER (
         OP_SI   =   SIGN_A;
       end else begin
         ABS_A   =   {1'b0, AL_MB};
-        ABS_B   =   {1'b0, AL_MB};
+        ABS_B   =   {1'b0, AL_MA};
         OP_SI   =   SIGB_B;
       end
     end
