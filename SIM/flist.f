@@ -1,0 +1,3 @@
+/home/caonam/SNN_THESIS_PROJECT/RTL/ADDER.v
+/home/caonam/SNN_THESIS_PROJECT/TB/ADDER_TB.v
+
