@@ -24,11 +24,20 @@ This thesis focuses on the research and implementation of Spiking Neural Network
 <img width="235" height="235" alt="image" src="https://github.com/user-attachments/assets/c83e6e25-5e9c-444c-a37e-9a84b7422c82" />
 
 <h2>Mẫu 7:</h2>
+<img width="233" height="236" alt="image" src="https://github.com/user-attachments/assets/be4a6244-a0f9-4451-b24b-6996c0be7704" />
 
 <h2>Mẫu 8:</h2>
+<img width="238" height="234" alt="image" src="https://github.com/user-attachments/assets/c20cdbd4-d4c9-4c12-8922-e609319a1672" />
 
 <h2>Mẫu 9:</h2>
+<img width="237" height="238" alt="image" src="https://github.com/user-attachments/assets/5cd0996e-442b-443a-9896-fd4f1203932c" />
 
 <h2>Mẫu 10:</h2>
+<img width="237" height="237" alt="image" src="https://github.com/user-attachments/assets/de509e69-041b-44fb-8834-8b85a19cfa82" />
 
-<h2>Mẫu :</h2>
+<h2>Mẫu 11:</h2>
+<img width="233" height="234" alt="image" src="https://github.com/user-attachments/assets/fbdc6307-1c55-4e56-a5dd-862f732edf4d" />
+
+<h2>Mẫu 12:</h2>
+<img width="232" height="234" alt="image" src="https://github.com/user-attachments/assets/3c1cc959-b0c7-4ae4-8095-7f2672033110" />
+
