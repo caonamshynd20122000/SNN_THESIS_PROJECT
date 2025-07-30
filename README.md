@@ -9,3 +9,5 @@ This thesis focuses on the research and implementation of Spiking Neural Network
 
 <h3>Kết Quả Mẫu 1:</h3>
 <img width="995" height="342" alt="image" src="https://github.com/user-attachments/assets/28e55208-c16a-4102-b5ae-fc6e01ff1fd7" />
+<h3>Kết Quả Mẫu 2:</h3>
+<img width="996" height="371" alt="image" src="https://github.com/user-attachments/assets/d927137a-5e5e-414a-8425-9a0e4f34926b" />
