@@ -8,6 +8,7 @@ This thesis focuses on the research and implementation of Spiking Neural Network
 <img width="995" height="342" alt="image" src="https://github.com/user-attachments/assets/28e55208-c16a-4102-b5ae-fc6e01ff1fd7" />
 
 <h3>Kết Quả Mẫu 1:</h3>
+<img width="996" height="371" alt="image" src="https://github.com/user-attachments/assets/d927137a-5e5e-414a-8425-9a0e4f34926b" />
 <h3>Kết Quả Mẫu 2:</h3>
 <img width="996" height="371" alt="image" src="https://github.com/user-attachments/assets/d927137a-5e5e-414a-8425-9a0e4f34926b" />
 <h3>Kết Quả Mẫu 3:</h3>
@@ -37,10 +38,9 @@ This thesis focuses on the research and implementation of Spiking Neural Network
 <h1 align="center">NHẬN DIỆN SỐ 1</h1>
 
 <h2>Mẫu 1 - 10:</h2>
-<img width="1749" height="494" alt="image" src="https://github.com/user-attachments/assets/642dda06-417b-4a4b-95bd-1d53472d0ee3" />
+<img width="1755" height="498" alt="image" src="https://github.com/user-attachments/assets/a69cc2ee-c6d8-4e77-8874-8ac8ca4877bb" />
 
 <h3>Kết Quả Mẫu 1:</h3>
-<img width="1755" height="498" alt="image" src="https://github.com/user-attachments/assets/a69cc2ee-c6d8-4e77-8874-8ac8ca4877bb" />
 <h3>Kết Quả Mẫu 2:</h3>
 <img width="996" height="371" alt="image" src="https://github.com/user-attachments/assets/d927137a-5e5e-414a-8425-9a0e4f34926b" />
 <h3>Kết Quả Mẫu 3:</h3>
